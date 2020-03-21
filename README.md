@@ -1,16 +1,14 @@
-# flutter_chat_app
+# Flutter Chat App using Stream
 
-A new Flutter project.
+This is a sample application using [Flutter](https://flutter.dev/) and [Stream](https://getstream.io/) to easily build a chat application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In the `chat_service.dart` file you will need to configure the application with your API key, that can be obtained from the [Stream dashboard](https://getstream.io/). The API key used in this repository may no longer be active by the time you read this.
 
-A few resources to get you started if this is your first Flutter project:
+For a written tutorial on using Stream and Flutter take a look at this tutorial:
+https://getstream.io/chat/flutter/tutorial/
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Below is a video tutorial demonstrating how to use Stream and Flutter to build this example application, as well as using the Stream dashboard to create new Stream applications (API keys):
+https://youtu.be/BOlL9f5bgkc
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
